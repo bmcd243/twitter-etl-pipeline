@@ -8,7 +8,7 @@ This is my first data pipeline that I have created using Airflow and AWS, follow
 `pip3 install s3fs` (to store, read and write data from S3 buckets)
 `sudo pip3 install apache-airflow` (I needed `-H` after `sudo` to get this to work).
 
-I had some issues installing airflow, but was able to get it working eventually with a virtual environment (see [here](https://www.linkedin.com/pulse/install-apache-airflow-mac-os-ranga-reddy/).
+I had some issues installing airflow, but was able to get it working eventually with a virtual environment (see [here](https://www.linkedin.com/pulse/install-apache-airflow-mac-os-ranga-reddy/)).
 More details about the tweepy API can be found [here](https://docs.tweepy.org/en/stable/api.html).
 
 # Pulling in data using tweepy API
